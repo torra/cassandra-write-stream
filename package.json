@@ -1,5 +1,5 @@
 {
-  "name": "CassandraWriteStream",
+  "name": "cassandra-write-stream",
   "version": "0.0.1",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha --exit index.test.js"
